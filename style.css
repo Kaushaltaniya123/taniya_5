@@ -1,0 +1,63 @@
+.navbar input[type="text"] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.button {
+  background-color: #0299bb; /* Green */
+  border: 25px;
+  color: rgb(18, 196, 187);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+body {
+  background-color: rgb(197, 12, 12);
+  margin: 0;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgb(251, 187, 10);
+  transition: 0.3s;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+#h1 {
+  text-align: center;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.8);
+}
+.container {
+  padding: 2px 16px;
+  color: rgba(33, 111, 157, 0.746);
+}
+.table {
+  padding-left: 310px;
+  padding-right: 310px;
+  padding-top: 0%;
+  padding-bottom: 5%;
+}
+
+input[type="text"] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.search {
+  margin-right: 40%;
+}
+.navbar {
+  background-color: rgb(209, 23, 23);
+}
